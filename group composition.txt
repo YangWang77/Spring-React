@@ -1,0 +1,5 @@
+Here is our team members and emails:
+ Name               Email
+Yang Wang        yaw56@pitt.edu
+Xinying Sun      xis53@pitt.edu
+Zhuocheng Shen   ZHS48@pitt.edu
